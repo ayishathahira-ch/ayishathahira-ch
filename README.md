@@ -27,7 +27,7 @@ M.Tech in Computational Linguistics · B.Tech in Information Technology · 5+ ye
 NLP · spaCy · Computer Vision · LLMs · OCR · Document AI · n8n automation
 
 ## 📚 Publications
-- [Paper title], IEEE, [year], [link]
+- [Combination of Neural Networks and Conditional Random Fields for Efficient Resume Parsing], IEEE, [2018], [https://www.researchgate.net/publication/328908925_Combination_of_Neural_Networks_and_Conditional_Random_Fields_for_Efficient_Resume_Parsing]
 - [Paper title], ICETEST, [year], [link]
 
 ## 📫 Connect
