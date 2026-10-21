@@ -9,7 +9,7 @@ M.Tech in Computational Linguistics · B.Tech in Information Technology · 5+ ye
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | **Cloud-Native Document Extraction Platform** | Routes uploaded documents to per-type extraction microservices, with database-driven document types and per-page credit billing | FastAPI, PostgreSQL, Google Cloud Run, Cloud Storage, Docker | [Live demo](https://docxtract.iohecosystem.com/) · [Architecture & README](https://github.com/AyishaThahira-CH/document-extraction-platform) |
-| **Visa Passport Processor** | Reads passports from Gmail attachments with OCR + MRZ check-digit validation and logs results to Google Sheets | Python, Flask, Tesseract, n8n, Gemini | [Code & demo](https://github.com/AyishaThahira-CH/visa-passport-processor) · [Engineering notes](https://github.com/AyishaThahira-CH/visa-passport-processor/blob/main/docs/ENGINEERING_NOTES.md) |
+| **Visa Passport Processor** | Reads passports from Gmail attachments with OCR + MRZ check-digit validation and logs results to Google Sheets | Python, Flask, Tesseract, n8n, Gemini | [Code](https://github.com/AyishaThahira-CH/visa-passport-processor) · [Engineering notes](https://github.com/AyishaThahira-CH/visa-passport-processor/blob/main/docs/ENGINEERING_NOTES.md) |
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
