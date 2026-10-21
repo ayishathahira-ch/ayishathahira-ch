@@ -9,7 +9,7 @@ M.Tech in Computational Linguistics · B.Tech in Information Technology · 5+ ye
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | **Cloud-Native Document Extraction Platform** | Routes uploaded documents to per-type extraction microservices, with database-driven document types and per-page credit billing | FastAPI, PostgreSQL, Google Cloud Run, Cloud Storage, Docker | [Live demo](https://docxtract.iohecosystem.com/) · [Architecture & README](https://github.com/AyishaThahira-CH/document-extraction-platform) |
-| **Visa Passport Processor** | Reads passports from Gmail attachments with OCR + MRZ check-digit validation and logs results to Google Sheets | Python, Flask, Tesseract, n8n, Gemini | [Code & demo](https://github.com/AyishaThahira-CH/visa-passport-processor) · [Engineering notes](https://github.com/AyishaThahira-CH/visa-passport-processor/blob/master/docs/ENGINEERING_NOTES.md) |
+| **Visa Passport Processor** | Reads passports from Gmail attachments with OCR + MRZ check-digit validation and logs results to Google Sheets | Python, Flask, Tesseract, n8n, Gemini | [Code & demo](https://github.com/AyishaThahira-CH/visa-passport-processor) · [Engineering notes](https://github.com/AyishaThahira-CH/visa-passport-processor/blob/main/docs/ENGINEERING_NOTES.md) |
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,8 +27,8 @@ M.Tech in Computational Linguistics · B.Tech in Information Technology · 5+ ye
 NLP · spaCy · Computer Vision · LLMs · OCR · Document AI · n8n automation
 
 ## 📚 Publications
-- [Combination of Neural Networks and Conditional Random Fields for Efficient Resume Parsing], IEEE, [2018], [https://www.researchgate.net/publication/328908925_Combination_of_Neural_Networks_and_Conditional_Random_Fields_for_Efficient_Resume_Parsing]
-- [A Survey of Coreference Resolution Methodologies’ in  proceedings of International Conference on Emerging Trends in Engineering Science and Technology], ICETEST, [2018]
+- [Paper title], IEEE, [year], [link]
+- [Paper title], ICETEST, [year], [link]
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/ayishathahira-c-h-b943a132b)
