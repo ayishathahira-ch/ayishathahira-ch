@@ -28,7 +28,7 @@ NLP · spaCy · Computer Vision · LLMs · OCR · Document AI · n8n automation
 
 ## 📚 Publications
 - [Combination of Neural Networks and Conditional Random Fields for Efficient Resume Parsing], IEEE, [2018], [https://www.researchgate.net/publication/328908925_Combination_of_Neural_Networks_and_Conditional_Random_Fields_for_Efficient_Resume_Parsing]
-- [Paper title], ICETEST, [year], [link]
+- [A Survey of Coreference Resolution Methodologies’ in  proceedings of International Conference on Emerging Trends in Engineering Science and Technology], ICETEST, [2018]
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/ayishathahira-c-h-b943a132b)
